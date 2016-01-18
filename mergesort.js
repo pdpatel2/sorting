@@ -1,5 +1,5 @@
 function merge(arr1, arr2) {
-	
+	//need to revist to sort arr1 and arr2
 	return arr1.concat(arr2);
 }
 
